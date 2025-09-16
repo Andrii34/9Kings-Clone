@@ -1,5 +1,4 @@
-﻿/*           INFINITY CODE          */
-/*     https://infinity-code.com    */
+﻿
 
 using System.IO;
 using UnityEditor;
